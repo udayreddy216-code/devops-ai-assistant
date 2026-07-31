@@ -14,7 +14,7 @@ concurrency:
 
 env:
   IMAGE_NAME: devops-ai-assistant
-  CONTAINER_NAME: uday
+  CONTAINER_NAME: ai-assistant
 
 jobs:
   validate:
